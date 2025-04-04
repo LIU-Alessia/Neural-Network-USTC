@@ -1,7 +1,7 @@
 # Neural-Network-USTC
 this is for USTC graduate course "Neural Network"
 
-REQUEST
+### REQUEST
 
 1.在github上建立自己的作业代码仓，每次的作业对应一个文件夹，文件夹内包含代码和报告，每次将自己github上的代码地址发到助教邮箱即可。
 
