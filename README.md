@@ -14,7 +14,8 @@ This is for USTC graduate course "Neural Network"
 代码和报告在./hw2/SENet_CIFAR10_classification.ipynb，同目录下有pdf文件。
 
 各文件夹说明：
-model：保存训练得到的模型；
-cifar-10-batches-py：存放cifar-10数据集；
-logs/SENet18：存放训练过程文件；
-otherData：其它有用但不重要的文件
+
+1. model：保存训练得到的模型；
+2. cifar-10-batches-py：存放cifar-10数据集；
+3. logs/SENet18：存放训练过程文件；
+4. otherData：其它有用但不重要的文件
