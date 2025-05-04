@@ -8,4 +8,7 @@ this is for USTC graduate course "Neural Network"
 2.报告建议采用jupyter notebook直接导出PDF。在notebook可以运行每个代码块产生结果并支持添加markdown文字分析。若使用的模型或数据较大，请在notebook运行好产生结果后导出报告发送，大的数据文件和模型文件无需发送到助教邮箱（github无限制，都可以传上去）。
 
 ### Homework 1
-代码在./hw1/regression.ipynb，报告在./hw1/regression.pdf
+代码和报告在./hw1/regression.ipynb，同目录下有pdf文件
+
+### Homework 2
+代码和报告在./hw2/SENet_CIFAR10_classification.ipynb，同目录下有pdf文件
