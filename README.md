@@ -1,5 +1,5 @@
 # Neural-Network-USTC
-this is for USTC graduate course "Neural Network"
+This is for USTC graduate course "Neural Network"
 
 ### Request
 
