@@ -26,16 +26,18 @@ __ELMo__ 对上下文进行双向编码，但使用特定于任务的架构；�
 额外的输出层将从头开始训练。
 
 下图描述了ELMo、GPT和BERT之间的差异：
-
-![alt text](./images/image-1.png)
+<p  align="center">
+<img src="./images/image-1.png"  width="500"/>
+</p>
 
 ### 输入表示
 情感分析以单个文本作为输入,BERT输入序列是
 特殊类别词元“<cls>”、文本序列的标记、以及特殊分隔词元“<sep>”的连结。
 
-BERT选择Transformer编码器作为其双向架构。在Transformer编码器中常见是，位置嵌入被加入到输入序
-列的每个位置。然而，与原始的Transformer编码器不同，BERT使用可学习的位置嵌入。总之，下图表
-明BERT输入序列的嵌入是词元嵌入、片段嵌入和位置嵌入的和。
+BERT选择Transformer编码器作为其双向架构。Transformer编码器的常见架构是位置嵌入被加入到输入序
+列的每个位置，BERT与原始的Transformer编码器不同，使用可学习的位置嵌入。
+
+下图表明BERT输入序列的嵌入是词元嵌入、片段嵌入和位置嵌入的和。
 
 ![alt text](./images/image-2.png)
 
