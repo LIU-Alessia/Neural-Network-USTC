@@ -19,3 +19,6 @@ This is for USTC graduate course "Neural Network"
 2. cifar-10-batches-py：存放cifar-10数据集；
 3. logs/SENet18：存放训练过程文件；
 4. otherData：其它有用但不重要的文件
+
+### Homework 3
+代码为train.py，报告为report.pdf
