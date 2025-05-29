@@ -22,3 +22,6 @@ This is for USTC graduate course "Neural Network"
 
 ### Homework 3
 代码为train.py，报告为report.pdf
+
+### Homework 4
+代码为main.py，报告为report.pdf
